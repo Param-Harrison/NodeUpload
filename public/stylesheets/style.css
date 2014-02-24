@@ -1,0 +1,9 @@
+body {padding: 50px;font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; color: #fff;background-color: #c3391d;}
+a {color: #00B7FF;}
+
+html {background-color: #c3391d;}
+.dropzone{height: 250px; width: 250px;padding: 10px;-webkit-border-radius: 14px;-moz-border-radius: 14px;-ms-border-radius: 14px;-o-border-radius: 14px;border-radius: 14px;background-color: #ab2211;margin: 0 auto;position: relative;}
+.drop-box{width: 100%; height: 100%;border: 3px dashed #dd9081;}
+.dropzone input[type=file]{width: 100%;height: 100%;position: absolute;top: -1%;left: -1%;opacity: 0;cursor: pointer;z-index: 1;}
+.drop-text{text-align: center;margin-top: 70px;}
+.drop-text span{font-size: 50px;margin-bottom: 5px;}
